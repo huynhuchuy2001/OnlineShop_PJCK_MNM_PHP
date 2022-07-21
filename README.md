@@ -1,9 +1,5 @@
-![GitHub](https://img.shields.io/github/license/PuneethReddyHC/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.shop)
-
-
-> 
 # online-shopping-with-advanced-admin-page
+
 Updated version
 
 online shopping system is a [DBMS project] with both admin and user layouts.
@@ -15,12 +11,12 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
 3. Download project from github(https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP.git)  
-    OR follow gitbash commands
-    
-    i>cd C:\\xampp\htdocs\
-    
-    ii>git clone https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP.git
-    
+   OR follow gitbash commands
+
+   i>cd C:\\xampp\htdocs\
+
+   ii>git clone https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP.git
+
 4. extract files in C:\\xampp\htdocs\.
 
 5. open link localhost/phpmyadmin
@@ -39,18 +35,18 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 12. first register and then login
 
-13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
+13. admin login details Email=admin@gmail.com or username = admin and Password=123456789.
 
-## If you like my project 
+## If you like my project
+
 Bye me Cup of coffee
 
 ### Google pay or phonepay number 0336755506
 
-##  If you like my project hit a star button
-
-
+## If you like my project hit a star button
 
 # Screenshots
+
 ![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/adduser.png)
 ![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/adminproductadd.png)
 ![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/manageuser.png)
@@ -70,12 +66,8 @@ Bye me Cup of coffee
 ![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/storepage.png)
 ![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/storepage1.png)
 
-
-
-
-
-
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
