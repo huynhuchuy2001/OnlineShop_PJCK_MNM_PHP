@@ -1,11 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/PuneethReddyHC/online-shopping-system-advanced)
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.shop)
 
-<a href="https://www.buymeacoffee.com/PuneethReddyHC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
 > ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
-
-[![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
 
 > ### Any DBMS OR WEB TECHNOLOGIES (php, django, angular or react) or MachineLearning projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit : http://www.notes4free.in/services.html
 
@@ -20,12 +17,12 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
+3. Download project from github(https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP.git)  
     OR follow gitbash commands
     
     i>cd C:\\xampp\htdocs\
     
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+    ii>git clone https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP.git
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -50,36 +47,31 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 ## If you like my project 
 Bye me Cup of coffee
 
-### Google pay or phonepay number 9535688928
-
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
+### Google pay or phonepay number 0336755506
 
 ##  If you like my project hit a star button
 
 
 
 # Screenshots
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adduser.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adminproductadd.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuser.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuseradmin.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productlistadmin.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productlist.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/cartpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/homepage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/loginmodal.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/mainpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productzoom.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/registermodal.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/searchfilter.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/searchpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/store.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/storepage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/storepage1.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/adduser.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/adminproductadd.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/manageuser.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/manageuseradmin.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/productlistadmin.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/productlist.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/cartpage.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/homepage.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/loginmodal.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/mainpage.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/productpage.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/productzoom.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/register%20modal.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/searchfilter.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/searchfilter.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/store.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/storepage.png)
+![Image of adduser](https://github.com/huynhuchuy2001/OnlineShop_PJCK_MNM_PHP/blob/main/screenshot/storepage1.png)
 
 
 
