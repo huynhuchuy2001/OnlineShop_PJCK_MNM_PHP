@@ -97,7 +97,7 @@
                     </li>
 
                     <li class="nav-item ">
-                        <a class="nav-link" href="../../chat/login.php">
+                        <a class="nav-link" href="#">
                             <i class="material-icons">notifications</i>
                             <p>Discussion</p>
                         </a>
